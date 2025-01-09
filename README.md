@@ -24,8 +24,4 @@ Figure 2. Plots of spectra found to be similar based on the wavenumbers of their
 - Calculate the Jaccard similarity index between spectra based on peak wavenumbers.
 - Display and plot similar spectra.
 
-## Requirements
-
-- Python 3.x
-- Libraries: `numpy`, `matplotlib`, `scipy`, `chardet`
 
